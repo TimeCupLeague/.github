@@ -1,2 +1,0 @@
-# TimeCupLeague
-Welcome to TimeCupLeague
